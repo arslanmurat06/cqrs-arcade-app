@@ -18,6 +18,7 @@
     <None Remove="Features\Queries\" />
     <None Remove="Features\Queries\Characters\" />
     <None Remove="Features\Commands\Characters\" />
+    <None Remove="Utility\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dto\" />
@@ -31,6 +32,7 @@
     <Folder Include="Features\Queries\" />
     <Folder Include="Features\Queries\Characters\" />
     <Folder Include="Features\Commands\Characters\" />
+    <Folder Include="Utility\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ArcadeApp.Domain\ArcadeApp.Domain.csproj" />
