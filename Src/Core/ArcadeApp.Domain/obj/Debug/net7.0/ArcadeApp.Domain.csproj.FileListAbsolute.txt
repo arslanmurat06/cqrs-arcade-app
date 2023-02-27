@@ -1,0 +1,12 @@
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/bin/Debug/net7.0/ArcadeApp.Domain.deps.json
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/bin/Debug/net7.0/ArcadeApp.Domain.dll
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/bin/Debug/net7.0/ArcadeApp.Domain.pdb
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ArcadeApp.Domain.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ArcadeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ArcadeApp.Domain.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ArcadeApp.Domain.AssemblyInfo.cs
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ArcadeApp.Domain.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ArcadeApp.Domain.dll
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/refint/ArcadeApp.Domain.dll
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ArcadeApp.Domain.pdb
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Domain/obj/Debug/net7.0/ref/ArcadeApp.Domain.dll

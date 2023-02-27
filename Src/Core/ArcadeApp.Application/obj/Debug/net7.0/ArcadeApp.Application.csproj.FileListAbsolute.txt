@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/bin/Debug/net7.0/ArcadeApp.Application.deps.json
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/bin/Debug/net7.0/ArcadeApp.Application.dll
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/bin/Debug/net7.0/ArcadeApp.Application.pdb
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/bin/Debug/net7.0/ArcadeApp.Domain.dll
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/bin/Debug/net7.0/ArcadeApp.Domain.pdb
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.AssemblyInfo.cs
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.csproj.CopyComplete
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.dll
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/refint/ArcadeApp.Application.dll
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ArcadeApp.Application.pdb
+/Users/muratarslan/Development/NET/ArcadeApp/Src/Core/ArcadeApp.Application/obj/Debug/net7.0/ref/ArcadeApp.Application.dll
